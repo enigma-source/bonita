@@ -1,7 +1,7 @@
 <?
 
 /**
-*	Bismillahir Rohmanir Rohiym
+*	Bismillahir Rohmanir Rohim
 *
 *	This file is part of Bonita packages
 */
